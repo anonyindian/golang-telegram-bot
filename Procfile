@@ -1,1 +1,1 @@
-worker: run bot.go
+web: bin/golang-telegram-bot
