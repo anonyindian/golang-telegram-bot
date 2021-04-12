@@ -1,1 +1,1 @@
-worker: go run bot.go
+worker: run bot.go
